@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1625928673 source:c:\users\pc\desktop\final\linked_arrays-project-\1st project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
